@@ -1,0 +1,11 @@
+node_modules/
+.env
+artifacts/
+cache/
+coverage/
+data/*
+uploads/*
+watermarked/*
+!data/.gitkeep
+!uploads/.gitkeep
+!watermarked/.gitkeep
